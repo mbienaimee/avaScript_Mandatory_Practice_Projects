@@ -1,0 +1,1 @@
+# avaScript_Mandatory_Practice_Projects
